@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route} from 'react-router-dom';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import Snackbar from '@material-ui/core/Snackbar';
 import Button from '@material-ui/core/Button';
-import { makeStyles } from '@material-ui/core/Styles';
+import { makeStyles } from '@material-ui/core';
 import MuiAlert from '@material-ui/lab/Alert';
 import './App.css';
 import TaskForm from './components/TaskForm';
