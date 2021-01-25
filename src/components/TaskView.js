@@ -6,7 +6,7 @@ import $ from 'jquery';
 import { ArrowBackIos as BackIcon } from '@material-ui/icons';
 import Snackbar from '@material-ui/core/Snackbar';
 import Button from '@material-ui/core/Button';
-import { makeStyles } from '@material-ui/core/Styles';
+import { makeStyles } from '@material-ui/core';
 import MuiAlert from '@material-ui/lab/Alert';
 import Load from './Load';
 
